@@ -7,7 +7,7 @@ The project analyzes IPL match and player data using Python.
 - Pandas
 - NumPy
 - Matplotlib
-- SeabornThis project analyzes IPL match and player data using Python to extract insights on team and player performance.
+- Seaborn
 
 # Features
 Team performance analysis
